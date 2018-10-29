@@ -1,6 +1,6 @@
 # AWS image server for Big Picture
 
-An image server for Filament's [Big Picture](https://github.com/FilamentAI/hackathon-bigpicture) hackathon project. Serves up random images and their parts from an AWS bucket.
+An image server for Filament's [Big Picture](https://github.com/FilamentAI/hackathon-big-picture) hackathon project. Serves up random images and their parts from an AWS bucket.
 
 ## AWS setup
 
